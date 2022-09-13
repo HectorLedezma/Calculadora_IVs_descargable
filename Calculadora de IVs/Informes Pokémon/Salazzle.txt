@@ -1,0 +1,8 @@
+Nombre: Salazzle
+IV PS:.........................15
+IV Ataque:.....................6
+IV Defensa:....................16
+IV At. Esp:....................17
+IV Df. Esp:....................29
+IV Velocidad:..................4
+Potencia de Poder oculto:......31
